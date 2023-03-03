@@ -1,4 +1,5 @@
 ### GitHub Em Construção 👋
+sou um iniciante na programação. Este GitHub é onde compartilho meus projetos e trabalhos, que ainda estão em fase de aprendizado e aprimoramento.
 
 <!--
 **magnoolivee/magnoolivee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
