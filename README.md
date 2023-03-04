@@ -1,7 +1,8 @@
 ## GitHub Em Construção 👋
 ### Sou um iniciante na programação. 
 **Este Perfil**
-é onde vou compartilhar meus futuros projetos e trabalhos, 
+
+É para compartilhar meus futuros projetos e trabalhos, 
 que ainda estão em fase de aprendizado e aprimoramento.
 
 <!--
