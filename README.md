@@ -1,8 +1,7 @@
+# Faça as coisas bem feitas, mesmo que ninguém esteja olhando.
 ## GitHub Em Construção 👋
 ### Sou um iniciante na programação. 
-**Este Perfil**
-
-É para compartilhar meus futuros projetos e trabalhos, 
+**Este Perfil** é para compartilhar meus futuros projetos e trabalhos, 
 que ainda estão em fase de aprendizado e aprimoramento.
 
 <!--
