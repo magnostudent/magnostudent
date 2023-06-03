@@ -1,5 +1,5 @@
 # Faça as coisas bem feitas, mesmo que ninguém esteja olhando.
-## GitHub Em Construção 👋
+## GitHub apenas para treinos e estudos👋
 ### Sou um iniciante na programação. 
 **Este Perfil** é para compartilhar meus futuros projetos e trabalhos, 
 que ainda estão em fase de aprendizado e aprimoramento.
