@@ -1,5 +1,12 @@
 # Faça as coisas bem feitas, mesmo que ninguém esteja olhando.
 ## GitHub apenas para treinos e estudos👋
-- 🔭 Front end  
-- 🌱 Estudando  React
+
+### Desenvolvedor front end  
+
+- HTML
+- CSS
+- Javascript
+- Estudando  React
+
+### Back end (em breve)
 
