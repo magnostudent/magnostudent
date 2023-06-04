@@ -8,4 +8,6 @@
 <img align="center" alt="Magno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript <br><br>
 <img align="center" alt="Magno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Estudando  React <br><br>
 
+![Magno GitHub stats](https://github-readme-stats.vercel.app/api?username=magnostudent&show_icons=true&theme=radical)
+
 
