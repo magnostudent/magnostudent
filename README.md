@@ -1,5 +1,4 @@
 # Faça as coisas bem feitas, mesmo que ninguém esteja olhando.
-## Perfil Acadêmico 🛠️ 
   
 ![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnostudent&show_icons=true&theme=radical)
 
