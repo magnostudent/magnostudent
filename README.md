@@ -1,6 +1,26 @@
-# Faça as coisas bem feitas, mesmo que ninguém esteja olhando.
+# Hello, World! 👋
+
+Sou novo da programação. Iniciei minha jornada em janeiro de 2023, deixando minha antiga profissão de eletricista para mergulhar nos estudos.
+
+## Conhecimentos Básicos
+
+- HTML/CSS 
+- JavaScript 
+- Git/GitHub 
+- Python
+
+## Em Aprendizado
+
+Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
+
+- Angular 
+- Java 
+- Spring 
+- MySQL 
+- MongoDB
   
-![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnostudent&show_icons=true&theme=radical)
+
+
 
 ##
 
