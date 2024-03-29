@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Sou novo da programação. Iniciei minha jornada em janeiro de 2023, deixando minha antiga profissão de eletricista para mergulhar nos estudos.
+Sou novo na programação. Iniciei minha jornada em janeiro de 2023, deixando minha antiga profissão de eletricista para mergulhar nos estudos.
 
 ## Conhecimentos Básicos
 
