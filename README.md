@@ -1,8 +1,16 @@
 # Hello, World! 👋
+# Olá, eu sou [Magno de Oliveira](https://github.com/magnostudent)!
 
-Sou novo na programação. Iniciei minha jornada em janeiro de 2023, deixando minha antiga profissão de eletricista para mergulhar nos estudos.
+## Sobre Mim
 
-## Conhecimentos Básicos
+- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Iniciei minha jornada na programação em janeiro de 2023.
+- 💼 Em transição de carreira da área de eletricista para a área de desenvolvimento de software.
+
+## Conhecimentos
+
+### Básicos:
+Habilidades que aprendi de forma autodidata e participando em cursos e bootcamps
 <div style="display: inline-block;">
     <!-- HTML -->
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="width: auto; height: 30px;"></a>
@@ -16,12 +24,7 @@ Sou novo na programação. Iniciei minha jornada em janeiro de 2023, deixando mi
     <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="width: auto; height: 30px;"></a>
 </div>
 
-
-
-
-
-
-## Em Aprendizado
+### Em Aprendizado:
 
 Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
 
@@ -37,6 +40,38 @@ Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
     <!-- MongoDB -->
     <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="width: auto; height: 30px;"></a>
 </div>
+
+## Contato
+
+Se você quiser entrar em contato, sinta-se à vontade para falar comigo no:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magnoolivee/) 
+
+www.linkedin.com/in/magnoolivee/
+
+
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=magnostudent&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
