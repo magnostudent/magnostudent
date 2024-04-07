@@ -51,7 +51,7 @@ Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
 
 ## Contato
 
-Se você quiser entrar em contato, sinta-se à vontade para falar comigo no:
+Se você quiser entrar em contato, sinta-se à vontade para falar comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magnoolivee/) 
 
