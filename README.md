@@ -5,7 +5,7 @@
 
 - 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
 - 🌱 Iniciei minha jornada na programação em janeiro de 2023.
-- 💼Fiz uma transição de carreira da área de eletricista para a área de desenvolvimento de software.
+- 💼 Fiz uma transição de carreira da área de eletricista para a área de desenvolvimento de software.
 
 ## Conhecimentos
 
