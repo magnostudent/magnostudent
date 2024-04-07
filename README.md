@@ -46,7 +46,7 @@ Atualmente, estou aprimorando minhas habilidades nas seguintes tecnologias:
 - Lógica de Programação com JavaScript  [Link aqui](https://www.dio.me/certificate/CRS58TPQ/share) 
 - Java Básico - loiane.training         [Link aqui](https://loiane.training/curso/java-basico)
 - Estrutura de Dados com Java           [Link aqui](https://loiane.training/curso/estrutura-de-dados)
-- Java COMPLETO Orientada a Objetos     [Link aqui](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING)
+- Java Completo Orientado a Objetos     [Link aqui](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING)
 
 
 ## Contato
