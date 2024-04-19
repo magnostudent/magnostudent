@@ -10,7 +10,7 @@
 ## Conhecimentos
 
 ### Básicos:
-Habilidades que aprendi de forma autodidata e participando em cursos e bootcamps
+Habilidades que aprendi participando de cursos, bootcamps e estudando  por conta própria:
 <div style="display: inline-block;">
     <!-- HTML -->
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="width: auto; height: 30px;"></a>
