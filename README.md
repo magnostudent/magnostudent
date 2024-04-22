@@ -10,7 +10,7 @@
 ## Conhecimentos
 
 ### Básicos:
-Habilidades Básica e Iniciais:
+Habilidades Básicas e Iniciais:
 <div style="display: inline-block;">
     <!-- HTML -->
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="width: auto; height: 30px;"></a>
