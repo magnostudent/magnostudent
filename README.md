@@ -1,6 +1,6 @@
 
 # Hello, World! 👋
-# Eu Sou Magno De Oliveira
+# Eu Sou [Magno De Oliveira](https://www.linkedin.com/in/magnoolivee/)
 Desenvolvedor Web / Engenheiro de Dados
 
 ## Sobre Mim
