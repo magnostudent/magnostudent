@@ -26,7 +26,7 @@ Habilidades Básicas e Iniciais:
 
 ### Aprendizado:
 
-Habilidades em aprimoramento:
+Habilidades Em Aprimoramento:
 
 <div style="display: inline-block;">
     <!-- Angular -->
