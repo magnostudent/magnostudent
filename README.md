@@ -24,7 +24,7 @@ Habilidades Básicas e Iniciais:
     <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="width: auto; height: 30px;"></a>
 </div>
 
-### Em Aprendizado:
+### Aprendizado:
 
 Habilidades em aprimoramento:
 
